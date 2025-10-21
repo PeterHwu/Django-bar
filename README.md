@@ -1,4 +1,4 @@
-# Django Bar
+# Django Bar (hand made)
 
 This is the Bar Django project. Auto-generated API docs are in the `docs/` folder.
 
